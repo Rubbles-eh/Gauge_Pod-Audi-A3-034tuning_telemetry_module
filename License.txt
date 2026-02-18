@@ -1,0 +1,22 @@
+            DO WHAT THE FUCK YOU WANT TO EXCEPT SUE PUBLIC LICENSE
+                    Version 2.1, FEBRUARY 2026
+
+ Original Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ Version 2.1 Copyright (C) -there isn't one-
+
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed 
+ as long as the name is changed.
+
+        DO WHAT THE FUCK YOU WANT TO EXCEPT SUE PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+ 
+ 1. Accept and acknowledge this is provided as is and regardless
+     of what is written out in a text file below a repository of
+     files, no one person, body, or collective, 
+     (GOVERNMENT or otherwise) can control what you do with it. 
+     You can however, and most likely will, be held accountable for any that 
+     run afoul of any laws in your jurisdiction. 
+     Your actions are your own. 
+  
+  2. You just DO WHAT THE FUCK YOU WANT TO.
